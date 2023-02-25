@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/redfoxdadad/Skid/main/Pistol%201v1.lua"))()

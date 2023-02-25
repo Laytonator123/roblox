@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/LOLking123456/FootbalFusion2/main/NewFusion2"))()
